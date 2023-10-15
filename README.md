@@ -1,0 +1,1 @@
+# Projeto_Tradutor_AGA_2D
